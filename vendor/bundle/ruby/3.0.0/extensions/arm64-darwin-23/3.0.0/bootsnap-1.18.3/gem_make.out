@@ -1,0 +1,23 @@
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+/Users/ventus_akaishi/.rbenv/versions/3.0.6/bin/ruby extconf.rb
+checking for fdatasync() in unistd.h... yes
+checking for whether -D_GNU_SOURCE is accepted as CPPFLAGS... yes
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-sl46s4 sitelibdir\=./.gem.20240604-41811-sl46s4 clean
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-sl46s4 sitelibdir\=./.gem.20240604-41811-sl46s4
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-sl46s4 sitelibdir\=./.gem.20240604-41811-sl46s4 install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20240604-41811-sl46s4/bootsnap
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.18.3/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-sl46s4 sitelibdir\=./.gem.20240604-41811-sl46s4 clean

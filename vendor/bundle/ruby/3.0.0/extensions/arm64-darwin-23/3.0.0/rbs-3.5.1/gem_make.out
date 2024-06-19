@@ -1,0 +1,28 @@
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/rbs-3.5.1/ext/rbs_extension
+/Users/ventus_akaishi/.rbenv/versions/3.0.6/bin/ruby extconf.rb
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240615-75186-mykkvq sitelibdir\=./.gem.20240615-75186-mykkvq clean
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240615-75186-mykkvq sitelibdir\=./.gem.20240615-75186-mykkvq
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240615-75186-mykkvq sitelibdir\=./.gem.20240615-75186-mykkvq install
+/usr/bin/install -c -m 0755 rbs_extension.bundle ./.gem.20240615-75186-mykkvq
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/rbs-3.5.1/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240615-75186-mykkvq sitelibdir\=./.gem.20240615-75186-mykkvq clean

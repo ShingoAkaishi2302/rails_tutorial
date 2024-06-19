@@ -1,0 +1,19 @@
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+/Users/ventus_akaishi/.rbenv/versions/3.0.6/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-7snfsc sitelibdir\=./.gem.20240604-41811-7snfsc clean
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-7snfsc sitelibdir\=./.gem.20240604-41811-7snfsc
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-7snfsc sitelibdir\=./.gem.20240604-41811-7snfsc install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240604-41811-7snfsc/racc
+
+current directory: /Users/ventus_akaishi/dev/test/rails/rails_tutorial/vendor/bundle/ruby/3.0.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240604-41811-7snfsc sitelibdir\=./.gem.20240604-41811-7snfsc clean
